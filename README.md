@@ -91,7 +91,11 @@ https://youtube.com/shorts/RMmk7aB6Z5M?feature=share
 
 #### 參考資料
 https://ithelp.ithome.com.tw/users/20121828/ironman/3042
+
 https://reactnavigation.org/
+
 https://www.youtube.com/watch?v=0HQcdUdc5Lo&t=1688s
+
 https://mocki.io/fake-json-api
+
 https://www.bilibili.com/video/BV1dP4y1c7qd?p=81
