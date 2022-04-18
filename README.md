@@ -72,6 +72,7 @@
 ### 5. 點選愛心功能(約1-2小時)
 因為目前的還沒有作品用到redux，因此試做此功能
 * 新增store.js
+
 ![](https://i.imgur.com/1XLdpNR.png)
 * 於store.js內新增reducer
 * 在mainPage.js發布接收到的json資料，並在同一檔案訂閱收資料
