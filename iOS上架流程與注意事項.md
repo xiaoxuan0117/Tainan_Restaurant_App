@@ -35,3 +35,5 @@
 * 若要上傳多個版本，可重新執行Product>Archive的步驟，並且==更改每個版本的Build作為辨別==
 * 提交送審
 
+#### 參考資料
+https://www.appcoda.com.tw/ios-app-submission/
