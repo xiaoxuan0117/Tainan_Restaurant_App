@@ -88,3 +88,8 @@ $ ./gradlew bundleRelease
 2. 檢查發布
 3. 開始發布正式版
 4. 等待審核
+
+#### 參考資料
+https://www.react-native.cn/docs/signed-apk-android
+https://www.youtube.com/watch?v=thEqGPzXNdk
+https://ithelp.ithome.com.tw/articles/10243763
