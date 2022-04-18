@@ -87,7 +87,7 @@
 > * 一開始要用react-redux所以加上Provider，但是後來用redux，因此將Provider移除較適宜
     
 ## 示範影片
-https://youtube.com/shorts/RMmk7aB6Z5M?feature=share
+https://youtube.com/shorts/QiJlfBv0tL0?feature=share
 
 #### 參考資料
 https://ithelp.ithome.com.tw/users/20121828/ironman/3042
