@@ -79,6 +79,7 @@
 * 在favorite.js也要收資料
 * 在mainPage.js和favorite.js中都有點擊愛心可以發通知修改資料的功能
 * 截圖:
+
 ![](https://i.imgur.com/JuuUtJd.png)
 
 > 備註:
