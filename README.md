@@ -11,8 +11,8 @@
 ### 2. 下方APP tab切換頁面(約1-2小時)
 * 使用react navigation製作此功能
 * 分類檔案:主要有screen的三個頁面，與一個串聯screen的tabNavigation頁面
-![](https://i.imgur.com/CJUPa0V.png)
 
+![](https://i.imgur.com/CJUPa0V.png)
 * 架構(除了tab標題還有加上icon):
 ```jsx=
 <Tab.Navigator
@@ -41,6 +41,7 @@
     </Tab.Navigator>
 ```
 * 截圖:
+
 ![](https://i.imgur.com/lhfeIKw.png)
 
 
@@ -59,6 +60,7 @@
         </Drawer.Navigator>
 ```
 * 截圖:
+
 ![](https://i.imgur.com/gNhy5Os.png)
 
 
