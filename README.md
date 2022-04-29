@@ -4,11 +4,10 @@
 以下講解每部份製作細節:
 >備註:
 > * 電腦是windos系統所以暫無ios版本
-> * 括號內為耗時
 ## 製作流程與時間
 ### 1. 環境建置
-這部分花了很久的時間，礙於電腦磁碟空間不足所以花了一些時間整理，並且工具下載下來後跑動速度較慢、有例外狀況等等。
-### 2. 下方APP tab切換頁面(約1小時)
+參考https://reactnative.dev/docs/environment-setup
+### 2. 下方APP tab切換頁面
 * 使用react navigation製作此功能
 * 分類檔案:主要有screen的三個頁面，與一個串聯screen的tabNavigation頁面
 
@@ -45,7 +44,7 @@
 ![](https://i.imgur.com/lhfeIKw.png)
 
 
-### 3. app選單點擊(約1小時)
+### 3. app選單點擊
 * 使用react navigation製作此功能
 * 分類檔案:同樣利用screen的三個頁面，並在tabNavigation頁面串聯screen
 * 架構:
@@ -64,12 +63,12 @@
 ![](https://i.imgur.com/gNhy5Os.png)
 
 
-### 4. 串接一組資料列表資料(約1-2小時)
+### 4. 串接一組資料列表資料
 * 製作json檔案內容與取得自製fake api
 * 在mainPage.js中請求此api，將資料放入tab為restaurant的頁面
 
 
-### 5. 點選愛心功能(約1-2小時)
+### 5. 點選愛心功能
 因為目前的還沒有作品用到redux，因此試做此功能
 * 新增store.js
 
