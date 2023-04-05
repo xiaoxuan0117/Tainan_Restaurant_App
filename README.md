@@ -4,7 +4,7 @@
 以下講解每部份製作細節:
 >備註:
 > * 電腦是windos系統所以暫無ios版本
-## 製作流程與時間
+## 製作流程
 ### 1. 環境建置
 參考https://reactnative.dev/docs/environment-setup
 ### 2. 下方APP tab切換頁面
